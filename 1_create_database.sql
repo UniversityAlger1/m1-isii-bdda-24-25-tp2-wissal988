@@ -12,7 +12,7 @@ CREATE TABLE Laboratoire (
     NomLab VARCHAR(100),
     Datcreation DATE,
     DatFin DATE,
-    Siteweb NVARCHAR(255)
+    Siteweb VARCHAR(255)
 );
 GO
 
